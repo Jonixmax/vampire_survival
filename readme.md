@@ -196,10 +196,10 @@ Combiné **pruebas automatizadas** (ejecutadas con ayuda de la IA, sin ventana g
 
 **Pruebas manuales** (marcar al completarlas):
 
-- [ ] Jugué al menos 5 minutos con cada clase.
-- [ ] Comprobé el sonido y la tecla `M`.
-- [ ] Verifiqué que `F` muestra unos 30 FPS estables en mi equipo.
-- [ ] Probé la selección de clase con teclado y con mouse.
+- [x ] Jugué al menos 5 minutos con cada clase.
+- [x ] Comprobé el sonido y la tecla `M`.
+- [x ] Verifiqué que `F` muestra unos 30 FPS estables en mi equipo.
+- [x ] Probé la selección de clase con teclado y con mouse.
 
 ### Errores, limitaciones y ajustes encontrados
 
