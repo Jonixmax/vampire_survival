@@ -194,12 +194,12 @@ Combiné **pruebas automatizadas** (ejecutadas con ayuda de la IA, sin ventana g
 - Entrada real: se simuló la tecla `3` en el bucle principal y arrancó la clase Mago.
 - Capturas de pantalla del juego en cada versión para revisar la interfaz.
 
-**Pruebas manuales** (marcar al completarlas):
+**Pruebas manuales** :
 
-- [x ] Jugué al menos 5 minutos con cada clase.
-- [x ] Comprobé el sonido y la tecla `M`.
-- [x ] Verifiqué que `F` muestra unos 30 FPS estables en mi equipo.
-- [x ] Probé la selección de clase con teclado y con mouse.
+-  Jugué al menos 5 minutos con cada clase.
+-  Comprobé el sonido y la tecla `M`.
+-  Verifiqué que `F` muestra unos 30 FPS estables en mi equipo.
+-  Probé la selección de clase con teclado y con mouse.
 
 ### Errores, limitaciones y ajustes encontrados
 
